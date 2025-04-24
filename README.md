@@ -6,11 +6,10 @@
 Este projeto foi desenvolvido pela equipe da FarmTech Solutions para a disciplina de Banco de Dados da FIAP. O objetivo é modelar um banco de dados relacional para gerenciar dados de sensores em uma plantação, otimizando a aplicação de água e nutrientes com base em leituras de umidade, pH e nutrientes (fósforo e potássio).
 
 ## Equipe
-- [Nome do Aluno 1] (RM: [RM1])
-- [Nome do Aluno 2] (RM: [RM2])
-- [Nome do Aluno 3] (RM: [RM3])
-- [Nome do Aluno 4] (RM: [RM4])
-- [Nome do Aluno 5] (RM: [RM5])
+- [Gabriel] (RM: [rm564934])
+- [Gabriella Serni Ponzetta] (RM: [rm566296])
+- [João Pedro Abreu] (RM: [RM563261])
+- [Fernando Ricardo] (RM: [rm566501])
 
 ## Modelo Entidade-Relacionamento (MER)
 
