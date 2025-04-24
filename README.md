@@ -3,7 +3,7 @@
 # FarmTech Solutions - Modelagem de Banco de Dados
 
 ## Descrição do Projeto
-Este projeto foi desenvolvido pela equipe da FarmTech Solutions para a disciplina de Banco de Dados da FIAP. O objetivo é modelar um banco de dados relacional para gerenciar dados de sensores em uma plantação, otimizando a aplicação de água e nutrientes com base em leituras de umidade, pH e nutrientes (fósforo e potássio).
+Este projeto foi desenvolvido pela equipe para a disciplina de Banco de Dados da FIAP. O objetivo é modelar um banco de dados relacional para gerenciar dados de sensores em uma plantação, otimizando a aplicação de água e nutrientes com base em leituras de umidade, pH e nutrientes (fósforo e potássio).
 
 ## Equipe
 - [Gabriel] (RM: [rm564934])
@@ -55,9 +55,6 @@ Este projeto foi desenvolvido pela equipe da FarmTech Solutions para a disciplin
 - **Lote → Sensor** (1:N): Um lote pode ter vários sensores.
 - **Sensor → Leitura_Sensor** (1:N): Um sensor gera várias leituras.
 - **Lote → Ajuste** (1:N): Um lote pode ter vários ajustes.
-
-## Diagrama Entidade-Relacionamento (DER)
-![DER do Projeto](modelo_der.png)
 
 ## Arquivos do Projeto
 - `FarmTech_Model.dmd`: Arquivo do modelo criado no SQL Developer Data Modeler.
